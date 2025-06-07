@@ -30,7 +30,6 @@ The following dashboards are included in this app:
 ## Requirements
 
 - Splunk Enterprise or Splunk Cloud
-- Wazuh index (`index=wazuh`) must be available and receiving data
 - Compatible with Splunk 8.x and 9.x
 
 ## Installation
