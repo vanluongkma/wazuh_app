@@ -1,0 +1,17 @@
+<nav search_view="search" color="#2FA1DB">
+	<view name="wazuh-security-events" label="Wazuh Security Events"/>
+	<view name="wazuh-incident-response" label="Wazuh Incident Response"/>
+	<view name="wazuh-malware-detection" label="Wazuh Malware Detection"/>
+	<view name="wazuh-vulnerabilities" label="Wazuh Vulnerabilities"/>
+	<view name="wazuh-amazon-aws" label="Wazuh Amazon AWS"/>
+	<view name="wazuh-docker-listener" label="Wazuh Docker Listener"/>
+	<view name="wazuh-pci-dss" label="Wazuh PCI DSS"/>
+	<!-- <collection label="Wazuh Dashboards">
+	</collection> -->
+	<collection label="Search">
+		<view name="search" />
+		<view name="reports" />
+		<view name="dashboards" />
+		<view name="alerts" />
+	</collection>
+</nav>
