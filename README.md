@@ -103,11 +103,11 @@ Follow the Splunk documentation to [install the Splunk universal forwarder](http
    ```
 2. In Splunk Web:
 
-- Go to Apps > Manage Apps
+- Go to ``Apps`` > ``Manage Apps``
 
-- Click Install app from file
+- Click ``Install app from file``
 
-- Upload wazuh_custom_app.tar.gz
+- Upload ``wazuh_app.tar.gz``
 
 - Restart Splunk if required
 
